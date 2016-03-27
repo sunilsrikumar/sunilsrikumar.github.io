@@ -12,7 +12,7 @@ description: "A constant quest to learn every day, every hour and everyminute.
 Technology is an integral part of my life and it reflects in almostevery facets
 of life."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.sunilsrikumar.com" # the base hostname & protocol for your site
 twitter_username: sunilsrikumar
 github_username:  sunilsrikumar
 
@@ -20,7 +20,6 @@ github_username:  sunilsrikumar
 markdown: kramdown
 permalink: /:year/:month/:title/
 
-
-google_analytics: UA-54785341-1
+# Discuss
 repo: http://github.com/sunilsrikumar/blog
 disqus_shortname: "sunilsrikumar"
