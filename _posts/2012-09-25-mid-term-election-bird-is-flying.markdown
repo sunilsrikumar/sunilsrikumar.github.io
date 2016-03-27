@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mid tern election bird is flying."
+title:  "Mid term election bird is flying."
 date:   2012-09-25 10:05:33 -0200
 categories: India
 description: "Bailing out kingfisher will raise several un-answered questions, Personally I don’t find any valid reason to bailout kingfisher."
