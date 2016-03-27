@@ -18,3 +18,4 @@ github_username:  sunilsrikumar
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:month/:title/

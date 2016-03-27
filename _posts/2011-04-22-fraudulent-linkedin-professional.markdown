@@ -15,10 +15,10 @@ The moment you click on the link provided in the mail, it will redirect you to t
 
 The best part of this unsolicited invitation is it will give you several reminder to join. So, please verify the following before you get hacked :
 
-(1) Confirm the authenticity through secure connection page https://
-(2) Never enter your new password until you wish to change it from profile section of LinkedIn website.
-(3) Post clicking on the sent link in your inbox, always delete the cookie of your web browser.
-(4) Connect your colleague professional network through LinkedIn page only.
+* Confirm the authenticity through secure connection page https://
+* Never enter your new password until you wish to change it from profile section of LinkedIn website.
+* Post clicking on the sent link in your inbox, always delete the cookie of your web browser.
+* Connect your colleague professional network through LinkedIn page only.
 
 Last but not least, I do appreciate the social community website which gives a platform to an individual to connect with others.
 
