@@ -19,3 +19,8 @@ github_username:  sunilsrikumar
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
+
+
+google_analytics: UA-54785341-1
+repo: http://github.com/sunilsrikumar/blog
+disqus_shortname: "sunilsrikumar"
