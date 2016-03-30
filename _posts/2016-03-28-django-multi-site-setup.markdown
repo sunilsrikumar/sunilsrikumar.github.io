@@ -55,7 +55,7 @@ pip freeze > requirements.txt
 ```
 
 ```python
-git pull https://github.com/sunilsrikumar/portalone
+git clone https://github.com/sunilsrikumar/portalone
 cd portalone
 pip install -r requirements.txt
 ```
@@ -223,7 +223,7 @@ Now, you should be able to access your site on respective server domain name or 
 It's time to setup another setup on same server. Pull another project in side home directory followed by dedicated virtualenv and required package installation within virtualenv
 
 ```python
-git pull https://github.com/sunilsrikumar/portaltwo
+git clone https://github.com/sunilsrikumar/portaltwo
 cd portaltwo
 mkvirtualenv portaltwo
 pip install -r requirements.txt
