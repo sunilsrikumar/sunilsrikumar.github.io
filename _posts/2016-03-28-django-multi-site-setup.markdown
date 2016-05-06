@@ -45,7 +45,12 @@ This will create a folder named "Env" inside your home directory where virtual e
 ```python
 mkvirtualenv portalone
 ```
+Note: If you are unable to create virtualenv that means virtualenv package ver1.11 still has error. To resolve that back to version lesser than 1.11
 
+```python
+sudo pip uninstall virtualenv
+sudo easy_install "virtualenv<1.11"
+```
 ### Pull code from github or bitbucket
 
 Since virtualenv is ready, pull your code from github or bitbucket and then install required packages within activated virtualenv. I assume, you have freeze your project requirement in requirements.txt file. If not you should freeze first and then update pull git repo:
@@ -103,7 +108,7 @@ This will startup the development server on port 8000. Visit your server's domai
 After testing the development server, stop the server by typing CTRL-C in your terminal. Now, we can move on to setup uWSGI setup. Let's deactivate your virtualenv and install uWSGI globally:
 
 ```python
-sudo apt-get intall uwsgi
+sudo pip install uwsgi
 ```
 Since uWSGI is installed now, we can test this application server by passing it the information for first project.
 

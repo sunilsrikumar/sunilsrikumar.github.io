@@ -20,7 +20,7 @@ Founder and architect of Nescode – An internet engineering company. Started my
 
 ### Childhood & college day
 
-Wowww. I got high on my childhood in home town Maujaha- Supaul, Bihar. Finest phase of my life – If God will ask me “What you want?”. I would say – I want to go back in my childhood and join “Rajkiya Madhya Vidyalaya Maujaha” and then “College of Commerce, Patna”. I had lot of fun and amazing days in academic days.
+Wowww. I got high on my childhood in home town Maujaha- Supaul, Bihar. Finest phase of my life – If God will ask me “What you want?”. I would say – I want to go back in my childhood and join “Rajkiya Madhya Vidyalaya Maujaha” and then “College of Commerce, Patna”. I had lot of fun and amazing time in academic days.
 
 ### Favourite movie
 
