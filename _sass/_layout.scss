@@ -181,22 +181,22 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        // margin-bottom: $spacing-unit;
+        margin-bottom: 8px;
     }
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: 16px;
     color: $grey-color;
+    padding-right: 13px;
 }
 
 .post-link {
     display: block;
-    font-size: 18px;
+    font-size: 16px;
     color: #EC2028;
 }
-
-
 
 /**
  * Posts
