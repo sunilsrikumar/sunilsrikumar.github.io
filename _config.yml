@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Python and Django developer
+title: Sunil Kumar
 email: sunilsrix@gmail.com
 description: "A constant quest to learn every day, every hour and every minute.
 Technology is an integral part of my life and it reflects in almost every facets
@@ -25,3 +25,7 @@ disqus_shortname: "sunilsrikumar"
 
 # Pagination
 paginate: 10
+paginate_path: "/page:num/"
+
+# Gems
+gems: [jekyll-paginate]
