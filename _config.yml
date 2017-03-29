@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sunil Kumar
+title: Python and Django developer
 email: sunilsrix@gmail.com
-description: "A constant quest to learn every day, every hour and everyminute.
+description: "A constant quest to learn every day, every hour and every minute.
 Technology is an integral part of my life and it reflects in almost every facets
 of life."
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,3 +22,6 @@ permalink: /:year/:month/:title/
 
 # Discuss
 disqus_shortname: "sunilsrikumar"
+
+# Pagination
+paginate: 10
