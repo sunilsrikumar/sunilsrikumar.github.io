@@ -51,3 +51,27 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+body{
+  letter-spacing: 1px;
+}
+
+p{
+  letter-spacing: 1px;
+}
+
+blockquote{
+  letter-spacing: 1px;
+}
+
+.post-title{
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 21px;
+}
+
+h2, h3 {
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-size: 21px;
+}
