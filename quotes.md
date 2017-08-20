@@ -9,3 +9,7 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > After a certain stage in materialistic knowledge gathering process, its implementation in material world makes more sense.
 
 > When someone talk about people engagement in true sprit, they might be entertaining some of your thought without accepting it. Means, they are mature.
+
+> We always need to remember - We are not here to grumble or to complain. We are here for something bigger and larger than life.
+
+> Challenges & roadblocks make leaders more stronger & followers weaker. Be the leader & fight till your last breath. People should praise even you loose.
