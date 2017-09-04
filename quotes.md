@@ -13,3 +13,5 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > We always need to remember - We are not here to grumble or to complain. We are here for something bigger and larger than life.
 
 > Challenges & roadblocks make leaders more stronger & followers weaker. Be the leader & fight till your last breath. People should praise even you loose.
+
+> Comfort & greatness rarely co-exist, need to show poise under pressure if you really want to do something on large scale.
