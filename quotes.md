@@ -15,3 +15,5 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > Challenges & roadblocks make leaders more stronger & followers weaker. Be the leader & fight till your last breath. People should praise even you loose.
 
 > Comfort & greatness rarely co-exist, need to show poise under pressure if you really want to do something on large scale.
+
+> A tool development abilities makes human species unique. Each one of us should always try to develop a tool to help mankind explore and learn.
