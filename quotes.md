@@ -17,3 +17,5 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > Comfort & greatness rarely co-exist, need to show poise under pressure if you really want to do something on large scale.
 
 > A tool development abilities makes human species unique. Each one of us should always try to develop a tool to help mankind explore and learn.
+
+> Understanding the universe is massively complex process and goal. But each one of us should have an objective to pursue this journey and willingness to fail.
