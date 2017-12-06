@@ -19,3 +19,5 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > A tool development abilities makes human species unique. Each one of us should always try to develop a tool to help mankind explore and learn.
 
 > Understanding the universe is massively complex process and goal. But each one of us should have an objective to pursue this journey and willingness to fail.
+
+> Change in state of matter/thought in materialistic world is relative in nature. To shape-up internal/external matter or thought for an inclusive world need to create an environment that can nurture this.
