@@ -27,3 +27,34 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > In pursuit of knowing self, knowledge will help you to understand how small you are, and unwise, and how far you have yet to go. 
 
 > The real meaning of life depends upon the resultant of all KARMA for community at large.
+
+> Instead of finding a new strategy/system, its time to transform the people who run them.
+
+> Whole world and every single object is the foundation of this life. Therefore, its important to deal with world and every object wiht DHARMA.
+
+> Real journey of an individual begin when they start looking inward.
+
+> Anger will never being happiness in own or other's life because anger by very own nature has the properties of destruction. 
+
+> To do anything wih perfection, need to practice it more and more. Practice is the only differentiating factor.
+
+> Health is the single most important tool that a man/women has. Need to keep it in perfect condition to achieve more in life.
+
+>Human consist of countless components. Out of all, main three are- Intellect, Mind and Body. All three can catagorize in three layers and instruction come from all layers.
+Human must follow the instruction from highest layer i.e Intellect.
+
+> By default human is born inside a beautiful and well organized ecosystem called Nautre. They can learn enough if they keep themselves open.
+
+> An ability of analyzing and understanding of an event itself is the source of knowledge.
+
+> Since every action left an impression, one must be calculative while performing an action.
+
+> Majority of people do not give an appropriate attention to what they consume and how much consume in terms of information, knowledge, sense and several other unknown things.
+
+Similarly, majority of people do not give appropriate attention to what they producing or leaving behind and relative impact/effect of that footprints/production.
+
+In my opionion, later is more dangerious to society/world at large.
+
+> The baggage of a generation depends upon they belong to. The lighter the baggage, easier the journey.
+
+> As much you involve/indulge in the world, your "self" quality will be reduced. It is important to keep the "self" above materialistic world to retain the supreme "self".
