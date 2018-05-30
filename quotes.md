@@ -21,3 +21,9 @@ In this journey of life, each one of us learn at every single moment. Knowledge 
 > Understanding the universe is massively complex process and goal. But each one of us should have an objective to pursue this journey and willingness to fail.
 
 > Change in state of matter/thought in materialistic world is relative in nature. To shape-up internal/external matter or thought for an inclusive world need to create an environment that can nurture this.
+
+> One important lesson of life- You can determine quality of your life only by being generous and loving everyone.
+
+> In pursuit of knowing self, knowledge will help you to understand how small you are, and unwise, and how far you have yet to go. 
+
+> The real meaning of life depends upon the resultant of all KARMA for community at large.
