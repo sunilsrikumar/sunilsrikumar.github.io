@@ -49,12 +49,11 @@ Human must follow the instruction from highest layer i.e Intellect.
 
 > Since every action left an impression, one must be calculative while performing an action.
 
-> Majority of people do not give an appropriate attention to what they consume and how much consume in terms of information, knowledge, sense and several other unknown things.
+> Majority of people do not give an appropriate attention to what they consume and how much consume in terms of information, knowledge, sense and several other unknown things. Similarly, majority of people do not give appropriate attention to what they producing or leaving behind and relative impact/effect of that footprints/production. In my opionion, later is more dangerious to society/world at large.
 
-Similarly, majority of people do not give appropriate attention to what they producing or leaving behind and relative impact/effect of that footprints/production.
-
-In my opionion, later is more dangerious to society/world at large.
 
 > The baggage of a generation depends upon they belong to. The lighter the baggage, easier the journey.
 
 > As much you involve/indulge in the world, your "self" quality will be reduced. It is important to keep the "self" above materialistic world to retain the supreme "self".
+
+> Action triggers based on identity. To make the action inline with true nature of "self", one need to identify "The self" in true sense. Misery and pain is the result of incomplete identification. 
