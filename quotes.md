@@ -4,7 +4,7 @@ title: Quotes
 permalink: /quotes/
 ---
 
-In this journey of life, each one of us learn at every single moment. Knowledge is the only one commodity in this universe which increase if you share with others. You may or may not be agree with quotes below but I thought to share with an open mind.
+In the journey of life, each one of us learn at every single moment. Knowledge is the only one commodity in the universe which increase if you share with others. You may or may not be agree with quotes below but I thought to share with an open mind.
 
 > After a certain stage in materialistic knowledge gathering process, its implementation in material world makes more sense.
 
