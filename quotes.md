@@ -57,3 +57,7 @@ Human must follow the instruction from highest layer i.e Intellect.
 > As much you involve/indulge in the world, your "self" quality will be reduced. It is important to keep the "self" above materialistic world to retain the supreme "self".
 
 > Action triggers based on identity. To make the action inline with true nature of "self", one need to identify "The self" in true sense. Misery and pain is the result of incomplete identification. 
+
+> Relative reality(Object one can see) is the result of conviction. One need to build the conviction to achieve the realitive reality. Absolute reality(Self) does not play any role in building process.
+
+> Each one of us belong to each other. This simple philosophy define- Oneness. For an example, one person in bangalore may not be knowing/impacting the other in different part of the world but when the "State" of very first person changes, the evet of chanding the "State" start impacting the others. Therefore, it is very import to maintain the "State" of others.
