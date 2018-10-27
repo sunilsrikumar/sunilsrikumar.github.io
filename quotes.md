@@ -24,7 +24,7 @@ In the journey of life, each one of us learn at every single moment. Knowledge i
 
 > One important lesson of life- You can determine quality of your life only by being generous and loving everyone.
 
-> In pursuit of knowing self, knowledge will help you to understand how small you are, and unwise, and how far you have yet to go. 
+> In pursuit of knowing self, knowledge will help you to understand how small you are, and unwise, and how far you have yet to go.
 
 > The real meaning of life depends upon the resultant of all KARMA for community at large.
 
@@ -34,7 +34,7 @@ In the journey of life, each one of us learn at every single moment. Knowledge i
 
 > Real journey of an individual begin when they start looking inward.
 
-> Anger will never being happiness in own or other's life because anger by very own nature has the properties of destruction. 
+> Anger will never being happiness in own or other's life because anger by very own nature has the properties of destruction.
 
 > To do anything wih perfection, need to practice it more and more. Practice is the only differentiating factor.
 
@@ -56,8 +56,10 @@ Human must follow the instruction from highest layer i.e Intellect.
 
 > As much you involve/indulge in the world, your "self" quality will be reduced. It is important to keep the "self" above materialistic world to retain the supreme "self".
 
-> Action triggers based on identity. To make the action inline with true nature of "self", one need to identify "The self" in true sense. Misery and pain is the result of incomplete identification. 
+> Action triggers based on identity. To make the action inline with true nature of "self", one need to identify "The self" in true sense. Misery and pain is the result of incomplete identification.
 
-> Relative reality(Object one can see) is the result of conviction. One need to build the conviction to achieve the realitive reality. Absolute reality(Self) does not play any role in building process.
+> Relative reality(Object one can see) is the result of conviction. One need to build the conviction to achieve the relitive reality. Absolute reality(Self) does not play any role in building process.
 
-> Each one of us belong to each other. This simple philosophy define- Oneness. For an example, one person in bangalore may not be knowing/impacting the other in different part of the world but when the "State" of very first person changes, the evet of chanding the "State" start impacting the others. Therefore, it is very import to maintain the "State" of others.
+> Each one of us belong to each other. This simple philosophy define- Oneness. For an example, one person in bangalore may not be knowing/impacting the other in different part of the world but when the "State" of very first person changes, the event of changing the "State" start impacting the others. Therefore, it is very import to maintain the "State" of others.
+
+> Action, objects, thoughts in the external world is the result of a "relative" meaning. Things in external world is meaningful only when you define it relatively.
