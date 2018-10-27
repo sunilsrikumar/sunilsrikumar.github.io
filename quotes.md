@@ -49,7 +49,7 @@ Human must follow the instruction from highest layer i.e Intellect.
 
 > Since every action left an impression, one must be calculative while performing an action.
 
-> Majority of people do not give an appropriate attention to what they consume and how much consume in terms of information, knowledge, sense and several other unknown things. Similarly, majority of people do not give appropriate attention to what they producing or leaving behind and relative impact/effect of that footprints/production. In my opionion, later is more dangerious to society/world at large.
+> Majority of people do not give an appropriate attention to what they consume and how much consume in terms of information, knowledge, sense and several other unknown things. Similarly, majority of people do not give appropriate attention to what they producing or leaving behind and relative impact/effect of that footprints/production. In my openion, later is more dangerious to society/world at large.
 
 
 > The baggage of a generation depends upon they belong to. The lighter the baggage, easier the journey.
@@ -58,7 +58,7 @@ Human must follow the instruction from highest layer i.e Intellect.
 
 > Action triggers based on identity. To make the action inline with true nature of "self", one need to identify "The self" in true sense. Misery and pain is the result of incomplete identification.
 
-> Relative reality(Object one can see) is the result of conviction. One need to build the conviction to achieve the relitive reality. Absolute reality(Self) does not play any role in building process.
+> Relative reality(Object one can see) is the result of conviction. One need to build the conviction to achieve the relative reality. Absolute reality(Self) does not play any role in building process.
 
 > Each one of us belong to each other. This simple philosophy define- Oneness. For an example, one person in bangalore may not be knowing/impacting the other in different part of the world but when the "State" of very first person changes, the event of changing the "State" start impacting the others. Therefore, it is very import to maintain the "State" of others.
 
