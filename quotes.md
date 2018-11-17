@@ -63,3 +63,5 @@ Human must follow the instruction from highest layer i.e Intellect.
 > Each one of us belong to each other. This simple philosophy define- Oneness. For an example, one person in bangalore may not be knowing/impacting the other in different part of the world but when the "State" of very first person changes, the event of changing the "State" start impacting the others. Therefore, it is very import to maintain the "State" of others.
 
 > Action, objects, thoughts in the external world is the result of a "relative" meaning. Things in external world is meaningful only when you define it relatively.
+
+> The word "Simple" is hard to describe but when you discover it, you will experience how beautiful it is. 
