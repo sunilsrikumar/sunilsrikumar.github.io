@@ -65,3 +65,5 @@ Human must follow the instruction from highest layer i.e Intellect.
 > Action, objects, thoughts in the external world is the result of a "relative" meaning. Things in external world is meaningful only when you define it relatively.
 
 > The word "Simple" is hard to describe but when you discover it, you will experience how beautiful it is. 
+
+> What we see in the world is a state of an object, the state in itself is dynamic properties of an object. It is bound to change due to multiple factor- Internal & External.
