@@ -8,7 +8,7 @@ keywords: "Nescode technology, Nescode, ERPNext, Frappe Framework, ERPNext on Ub
 tags: ERPNext
 comments: true
 ---
- 
+
 ### Overview:
 ERPNext is an open source business application that helps you streamline process and operation. In this article we will be installing ERPNext on Ubuntu 16.04 LTS using best practice.
 
@@ -185,7 +185,7 @@ To remove any trace of mariadb installed through `apt-get`:
 ```
 sudo service mysql stop
 sudo apt-get --purge remove "mysql*"
-sudo rm -rf /etc/mysql/ 
+sudo rm -rf /etc/mysql/
 ```
 
 and it is all gone. Including databases and any configuration file.
@@ -213,10 +213,10 @@ sudo /usr/bin/mysql_secure_installation
 During the interactive process, answer questions one by one as follows:
 
 ```
-Enter current password for root (enter for none): 
+Enter current password for root (enter for none):
 Set root password? [Y/n]: Y
-New password: 
-Re-enter new password: 
+New password:
+Re-enter new password:
 Remove anonymous users? [Y/n]: Y
 Disallow root login remotely? [Y/n]: Y
 Remove test database and access to it? [Y/n]: Y
@@ -236,7 +236,7 @@ sudo apt-get -y update && sudo apt-get -y install nodejs-legacy
 
 ### Redis server installation
 
-``` 
+```
 sudo apt-get -y install build-essential tcl
 ```
 
@@ -470,12 +470,28 @@ sudo apt-get -y install wkhtmltopdf
 git clone https://github.com/frappe/bench bench-repo
 sudo pip install -e bench-repo
 ```
+--------
+For .config/git/attributes': Permission denied
+
+cd ~/
+ls -al
+<Noticed .config was owned by root, unlike everything else in $HOME>
+sudo chown -R $(whoami) .config
+-------
+
+For Python3
+
+git clone https://github.com/frappe/bench
+pip3 install -e ./bench
+bench init --frappe-branch master frappe-bench --python python3
+
+
 
 ***Note:*** In case of `unsupported locale` setting error, run `export LC_ALL=C` from another terminal tab
 
 ```
 bench init frappe-bench && cd frappe-bench
-bench new-site erp.domain.com 
+bench new-site erp.domain.com
 ```
 
 site1.local sometime doesn't work because of mariadb issue. check guide below
@@ -506,7 +522,8 @@ sudo /etc/init.d/mysql start
 ```
 
 ```
-bench get-app erpnext https://github.com/frappe/erpnext
+bench get-app --branch master erpnext
+
 bench --site erp.domain.com install-app erpnext
 Step 6: Setup production
 sudo apt-get -y install supervisor
@@ -519,10 +536,10 @@ sudo apt-get -y install nginx
 sudo bench setup production {{ username_goes_here }}
 ```
 
-Creation of your site - site1.local failed because MariaDB is not properly 
-configured to use the Barracuda storage engine. 
-Please add the settings below to MariaDB's my.cnf, restart MariaDB 
-sudo systemctl restart mariadb.service 
+Creation of your site - site1.local failed because MariaDB is not properly
+configured to use the Barracuda storage engine.
+Please add the settings below to MariaDB's my.cnf, restart MariaDB
+sudo systemctl restart mariadb.service
 then run `bench new-site site1.local` again.
 
 ```
@@ -545,5 +562,36 @@ bench config dns_multitenant on
 bench new-site site2.local
 bench setup nginx
 sudo service nginx reload
+sudo supervisorctl reload
 ```
 
+Remove mariadb databae
+
+mysqldump -u {user} -p {database} > /home/$USER/Documents/backup.sql
+To remove any trace of mariadb installed through apt-get:
+
+sudo service mysql stop
+sudo apt-get --purge remove "mysql*"
+sudo rm -rf /etc/mysql/
+
+and it is all gone. Including databases and any configuration file.
+
+To check if anything named mysql is gone do a
+
+sudo updatedb
+and a
+
+locate mysql
+---------
+
+HTTPS Installation
+
+$ sudo apt-get update
+$ sudo apt-get install software-properties-common
+$ sudo add-apt-repository universe
+$ sudo add-apt-repository ppa:certbot/certbot
+$ sudo apt-get update
+$ sudo apt-get install certbot python-certbot-nginx
+
+sudo certbot --nginx certonly
+sudo certbot renew --dry-run
