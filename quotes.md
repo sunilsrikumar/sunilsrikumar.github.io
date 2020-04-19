@@ -6,6 +6,10 @@ permalink: /quotes/
 
 In the journey of life, each one of us learn at every single moment. Knowledge is the only one commodity in the universe which increase if you share with others. You may or may not be agree with quotes below but I thought to share with an open mind.
 
+> Over the period of time, I have generated several likes and dislikes, interests but now it seems I am losing it and finding no pleasure in most of it.
+
+> Action and thoughts triggered by knowledge. To control the action, you need to control the knowledge and source of information.
+
 > To worship God, need to know God and to know God, need to know self first.
 
 > After a certain stage in materialistic knowledge gathering process, its implementation in material world makes more sense.
